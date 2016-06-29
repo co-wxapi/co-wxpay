@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "co-wxsign": "^0.1.0",
+    "co-wxbase": "^0.1.0"
+  },
+  "engines": {
+    "node": ">= 4.4.0"
+  },
+  "files": [
+    "lib",
+    "*.js"
+  ]
 }
