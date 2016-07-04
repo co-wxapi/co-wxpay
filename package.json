@@ -1,6 +1,6 @@
 {
   "name": "co-wxpay",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "wechat payment api",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "co-wxbase": "^0.1.1",
     "co-wxsign": "^1.0.1",
+    "moment": "^2.13.0",
     "xml2js": "^0.4.16"
   },
   "files": [
